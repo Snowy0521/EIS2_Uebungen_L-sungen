@@ -1,1 +1,7 @@
-{}
+{
+  "markdown-pdf.type": [
+    "pdf"
+  ],
+  "markdown-pdf.engine": "pandoc",
+  "markdown-pdf.displayHeaderFooter": false
+}

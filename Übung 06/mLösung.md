@@ -336,7 +336,7 @@ $$
 $$
 =
 \begin{bmatrix}
-1 & 0 & \times & \times
+1 & - & \times & \times
 \end{bmatrix}
 \vee
 \begin{bmatrix}
@@ -347,7 +347,7 @@ $$
 $$
 =
 \begin{bmatrix}
-1 & 0 & \times & 0
+1 & - & \times & 0
 \end{bmatrix}
 $$
 
